@@ -12,5 +12,5 @@ I'm Chiraz, a Computer Science undergraduate and a freelance developer based in 
 ### 📫 Let's Connect!
 
 * **Portfolio:** [shirazdev.tech](https://shirazdev.tech)
-* **Showcase:** [FullReady.tech](https://fullready.tech)
+* **Showcase:** [FullDReady.tech](https://fulldready.tech)
 * **LinkedIn:** [Chiraz on LinkedIn](https://www.linkedin.com/in/shiraz-887844407/)
