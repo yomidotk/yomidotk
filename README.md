@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Chiraz 👋
 
-<!--
-**yomidotk/yomidotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech-obsessed | Building useful tools and applications for fun.**
 
-Here are some ideas to get you started:
+I'm Chiraz, a Computer Science undergraduate and a freelance developer based in Algeria. I love building tools and apps that are actually useful to people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Tools
+
+* **Development:** TypeScript, Python, Dart, React, Flutter, Vite, Supabase, Serverless Logic
+* **Workflow:** VS Code, Cursor, AI Agents, Git
+
+### 📫 Let's Connect!
+
+* **Portfolio:** [shirazdev.tech](https://shirazdev.tech)
+* **Showcase:** [FullReady.tech](https://fullready.tech)
+* **LinkedIn:** [Chiraz on LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/shiraz-887844407/))
